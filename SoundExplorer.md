@@ -1,0 +1,3 @@
+This class allows you to explore a Sound. You can see the line drawing of the sound samples and play all or part of a sound. You can zoom in to see all the samples in the sound or zoom out to see the entire sound. You can click on the sound wave to see the value at that index. Copyright Georgia Institute of Technology 2004
+
+Similar to the PictureExplorer, this provides interactive feedback for the sound graph. This can be looked into.

@@ -1,0 +1,1 @@
+This is a class used to interface with the frame sequence in Swing. This is probably not needed for the CPython version.
